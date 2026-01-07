@@ -2,6 +2,11 @@
 
 ### Usage
 
+Install the package:
+```
+pip install ragpy
+```
+
 Create a vectorstore client (currently only Qdrant is supported).
 Set QDRANT_API_KEY environment variable first.
 
